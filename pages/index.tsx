@@ -16,7 +16,7 @@ const Home: NextPage = (props) => {
   return (
     <div className={styles.App}>
       <Head>
-        <title>Anchor Frontend Example</title>
+        <title>DREC Marketplace</title>
       </Head>
       <Box h="calc(100vh)" w="full">
         <Stack w="full" h="calc(100vh)" justify="center">
